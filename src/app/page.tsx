@@ -20,7 +20,7 @@ const jsonLd = {
   image: `${SITE_URL}/images/rm/og.jpg`,
   description:
     "Collection de vêtements et accessoires sportswear pour homme : T-shirts, hoodies, joggers, shorts, casquettes et sacs.",
-  telephone: "+212627188889",
+  telephone: "+212781498821",
   sameAs: ["https://www.instagram.com/randm_brand/?hl=fr"],
   hasOfferCatalog: {
     "@type": "OfferCatalog",
